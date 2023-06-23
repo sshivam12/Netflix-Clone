@@ -1,7 +1,6 @@
 # Netflix-Clone
 
-# Website Link 
-[Video link](https://reliable-pothos-67d205.netlify.app/)
+#Website Link       [Video link](https://reliable-pothos-67d205.netlify.app/)
 
 This is a Netflix clone project built using HTML, CSS, and JavaScript. It aims to replicate the main features and design of the Netflix website.
 
