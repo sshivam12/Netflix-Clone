@@ -50,7 +50,7 @@ Push your changes to your forked repository.
 
 Submit a pull request explaining your changes.
 
-![image] (https://github.com/sshivam12/Netflix-Clone/blob/main/Screenshot%20(16073).png)
+![image](https://github.com/sshivam12/Netflix-Clone/blob/main/Screenshot%20(16073).png)
 
 
 
